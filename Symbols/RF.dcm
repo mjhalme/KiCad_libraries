@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CC110L
+D CC110L RF Transceiver
+K RF, Transceiver
+F http://www.ti.com/lit/ds/symlink/cc110l.pdf
+$ENDCMP
+#
+#End Doc Library
